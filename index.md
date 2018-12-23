@@ -1,5 +1,5 @@
 ## About Me
-I am a sixth year PhD candidate at the Department of Computer Science of North Carolina State University. I joined SOFTWARE ENGINEERING team in 2017 and have been under the supervision of [Dr. Kathryn T. Stolee](https://kstolee.github.io/) since then. 
+I am a sixth year PhD candidate at the [Department of Computer Science](https://www.csc.ncsu.edu/) of [North Carolina State University](https://www.ncsu.edu/). I joined SOFTWARE ENGINEERING team in 2017 and have been under the supervision of [Dr. Kathryn T. Stolee](https://kstolee.github.io/) since then. 
 
 From 2013 to 2016 I worked with [Dr. Xiaohui(Helen) Gu](https://www.csc2.ncsu.edu/faculty/xgu/) on distributed system research. Before coming to NC State University, I received from [Xi'an Jiaotong Univerity](http://en.xjtu.edu.cn/) my Bachelor's degree in Software Engineering in 2010 and Master's degree in Computer Science in 2013. 
 
