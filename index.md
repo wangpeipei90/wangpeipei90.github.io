@@ -11,16 +11,6 @@ I have an internship at IBM Inc. (Research Triangle Park) during Jun-Aug 2018 an
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
 1. "[PerfCompass: Toward Runtime Performance Anomaly Fault Localization for Infrastructure-as-a-Service Clouds](http://dance.csc.ncsu.edu/papers/hotcloud14.pdf)", Daniel J. Dean, Hiep Nguyen, **Peipei Wang**, and Xiaohui Gu, Proc. of USENIX Workshop on Hot Topics in Cloud Computing (HotCloud), 2014. (acceptance rate: 30.5%)
 2. "[Understanding Real World Data Corruption Bugs in Cloud Systems](http://dance.csc.ncsu.edu/papers/ic2e2015.pdf)", **Peipei Wang**, Daniel J. Dean, Xiaohui Gu, Proc. of IEEE International Conference on Cloud Engineering (IC2E), 2015. (acceptance rate: 25%) (slides)
 3. "[Automatic Server Hang Bug Diagnosis: Feasible Reality or Pipe Dream](http://dance.csc.ncsu.edu/papers/icac2015.pdf)", Daniel J. Dean, **Peipei Wang**, Xiaohui Gu, William Enck, Guoliang Jin Proc. of IEEE International Conference on Autonomic Computing(ICAC), 2015. (short paper, acceptance rate: 27%)
@@ -34,6 +24,15 @@ Syntax highlighted code block
 11. "How well are regular expressions tested in the wild?", **Peipei Wang**, Kathryn T. Stolee, Symposium on the Foundations of Software Engineering (FSE), 2018.
 12. "Exploring Regular Expression Evolution", **Peipei Wang**, Rui Bai, Kathryn T. Stolee, IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2019. (To appear)
 
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
