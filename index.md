@@ -1,5 +1,9 @@
 ## About Me
-I am a sixth year PhD candidate at the Department of Computer Science of North Carolina State University. I joined SOFTWARE ENGINEERING team in 2017 and have been under the supervision of [Dr. Kathryn T. Stolee](https://kstolee.github.io/) since then. From 2013 to 2016 I worked with [Dr. Xiaohui(Helen) Gu](https://www.csc2.ncsu.edu/faculty/xgu/) on distributed system research. Before coming to NC State University, I received from [Xi'an Jiaotong Univerity](http://en.xjtu.edu.cn/) my Bachelor's degree in Software Engineering in 2010 and Master's degree in Computer Science in 2013. 
+I am a sixth year PhD candidate at the Department of Computer Science of North Carolina State University. I joined SOFTWARE ENGINEERING team in 2017 and have been under the supervision of [Dr. Kathryn T. Stolee](https://kstolee.github.io/) since then. 
+
+From 2013 to 2016 I worked with [Dr. Xiaohui(Helen) Gu](https://www.csc2.ncsu.edu/faculty/xgu/) on distributed system research. Before coming to NC State University, I received from [Xi'an Jiaotong Univerity](http://en.xjtu.edu.cn/) my Bachelor's degree in Software Engineering in 2010 and Master's degree in Computer Science in 2013. 
+
+My current research is focused on improving regular expression comprehension, testing, and maintenance through program analysis techniques. I am also interested in techniques of cloud system debugging and diagnosis to detect and repair system anomalies and bugs at the fine granularity. 
 
 I have an internship at IBM Inc. (Research Triangle Park) during Jun-Aug 2018 and IBM Inc. (China Research Laboratory) during Jun-Aug 2015, and another at Morgan Stanley IT department (Shanghai) in 2012.
 
