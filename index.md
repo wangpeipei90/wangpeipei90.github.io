@@ -31,7 +31,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 10. "[DScope: Detecting Real-World Data Corruption Hang Bugs in Cloud Server Systems](http://dance.csc.ncsu.edu/papers/SOCC18.pdf)", Ting Dai, Jingzhu He, Xiaohui Gu, Shan Lu, and **Peipei Wang**,  ACM Symposium on Cloud Computing (SOCC), 2018.
 
-11. "[How well are regular expressions tested in the wild?](https://wangpeipei90.github.io/papers/fse2018.pdf)", **Peipei Wang**, Kathryn T. Stolee, Symposium on the Foundations of Software Engineering (FSE), 2018. (/[slides](https://wangpeipei90.github.io/slides/slides_fse2018.pptx))
+11. "[How well are regular expressions tested in the wild?](https://wangpeipei90.github.io/papers/fse2018.pdf)", **Peipei Wang**, Kathryn T. Stolee, Symposium on the Foundations of Software Engineering (FSE), 2018. ([slides](https://wangpeipei90.github.io/slides/slides_fse2018.pptx))
 
 12. "[Exploring Regular Expression Evolution](https://wangpeipei90.github.io/papers/saner2019_preprint.pdf)", **Peipei Wang**, Rui Bai, Kathryn T. Stolee, IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2019. (To appear)
 
