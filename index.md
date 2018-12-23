@@ -18,11 +18,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 5. "[RDE: Replay DEbuggging for Diagnosing Production Site Failures](http://dance.csc.ncsu.edu/papers/srds16.pdf)", Peipei Wang, Hiep Nguyen, Xiaohui Gu, Shan Lu, Proc of IEEE International Symposium on Reliable Distributed Systems (SRDS), Budapest, Hungary, Sep. 26-29th, 2016. (Acceptance rate: 27/83 = 32.5%) (slides)
 6. "[A Systematic Study of Security Isolation](http://dance.csc.ncsu.edu/papers/CSUR2016.pdf)", Rui Shu, **Peipei Wang**, Sigmund A. Gorski III, Benjamin Andow, Adwait Nadkarni, Luke Deshotels, Jason Gionta, William Enck and Xiaohui Gu, ACM Computing Surveys(CSUR), 2016.
 7. "[Hytrace: A Hybrid Approach to Performance Bug Diagnosis in Production Cloud Infrastructures](http://dance.csc.ncsu.edu/papers/socc2017.pdf)", Ting Dai, Daniel Dean, **Peipei Wang**, Xiaohui Gu, Shan Lu, Proc. of ACM Symposium on Cloud Computing (SOCC), poster session, Santa Clara, CA, September, 2017.
-8. "Exploring Regular Expression Comprehension", Carl Chapman, **Peipei Wang**, and Kathryn T. Stolee, International Conference on Automated Software Engineering (ASE), 2017. (acceptance rate: 21%) (slides)
-9. "Hytrace: A Hybrid Approach to Performance Bug Diagnosis in Production Cloud Infrastructures", Ting Dai, Daniel Dean, **Peipei Wang**, Xiaohui Gu, Shan Lu, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2018.
+8. "[Exploring Regular Expression Comprehension](https://wangpeipei90.github.io/papers/ase2017.pdf)", Carl Chapman, **Peipei Wang**, and Kathryn T. Stolee, International Conference on Automated Software Engineering (ASE), 2017. (acceptance rate: 21%) (slides)
+9. "[Hytrace: A Hybrid Approach to Performance Bug Diagnosis in Production Cloud Infrastructures](http://dance.csc.ncsu.edu/papers/TPDS18.pdf)", Ting Dai, Daniel Dean, **Peipei Wang**, Xiaohui Gu, Shan Lu, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2018.
 10. "[DScope: Detecting Real-World Data Corruption Hang Bugs in Cloud Server Systems](http://dance.csc.ncsu.edu/papers/SOCC18.pdf)", Ting Dai, Jingzhu He, Xiaohui Gu, Shan Lu, and **Peipei Wang**,  ACM Symposium on Cloud Computing (SOCC), 2018.
-11. "How well are regular expressions tested in the wild?", **Peipei Wang**, Kathryn T. Stolee, Symposium on the Foundations of Software Engineering (FSE), 2018.
-12. "Exploring Regular Expression Evolution", **Peipei Wang**, Rui Bai, Kathryn T. Stolee, IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2019. (To appear)
+11. "[How well are regular expressions tested in the wild?](https://wangpeipei90.github.io/papers/fse2018.pdf)", **Peipei Wang**, Kathryn T. Stolee, Symposium on the Foundations of Software Engineering (FSE), 2018.
+12. "[Exploring Regular Expression Evolution](https://wangpeipei90.github.io/papers/saner2019_preprint.pdf)", **Peipei Wang**, Rui Bai, Kathryn T. Stolee, IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2019. (To appear)
 
 ```markdown
 Syntax highlighted code block
