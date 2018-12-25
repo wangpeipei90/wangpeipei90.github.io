@@ -19,7 +19,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 4. "[PerfCompass: Online Performance Anomaly Fault Localization and Inference in infrastructure-as-a-Service Clouds](http://dance.csc.ncsu.edu/papers/tpds-perfcompass.pdf)", Daniel J. Dean, Hiep Nguygen, **Peipei Wang**, Xiaohui Gu, Anca Sailer, Andrzej Kochut, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2015.
 
-5. "[RDE: Replay DEbuggging for Diagnosing Production Site Failures](http://dance.csc.ncsu.edu/papers/srds16.pdf)", Peipei Wang, Hiep Nguyen, Xiaohui Gu, Shan Lu, Proc of IEEE International Symposium on Reliable Distributed Systems (SRDS), Budapest, Hungary, Sep. 26-29th, 2016. (Acceptance rate: 27/83 = 32.5%) ([slides](https://wangpeipei90.github.io/slides/slides_SRDS2016.pptx))
+5. "[RDE: Replay DEbuggging for Diagnosing Production Site Failures](http://dance.csc.ncsu.edu/papers/srds16.pdf)", **Peipei Wang**, Hiep Nguyen, Xiaohui Gu, Shan Lu, Proc of IEEE International Symposium on Reliable Distributed Systems (SRDS), Budapest, Hungary, Sep. 26-29th, 2016. (Acceptance rate: 27/83 = 32.5%) ([slides](https://wangpeipei90.github.io/slides/slides_SRDS2016.pptx))
 
 6. "[A Systematic Study of Security Isolation](http://dance.csc.ncsu.edu/papers/CSUR2016.pdf)", Rui Shu, **Peipei Wang**, Sigmund A. Gorski III, Benjamin Andow, Adwait Nadkarni, Luke Deshotels, Jason Gionta, William Enck and Xiaohui Gu, ACM Computing Surveys(CSUR), 2016.
 
