@@ -7,7 +7,7 @@ My current research is focused on **improving regular expression comprehension, 
 
 I have an internship at IBM Inc. (Research Triangle Park) during Jun-Aug 2018 and IBM Inc. (China Research Laboratory) during Jun-Aug 2015, and another at Morgan Stanley IT department (Shanghai) in 2012.
 
-Here is my [resume](https://wangpeipei90.github.io/slides/slides_SRDS2016.pptx). 
+Here is my [resume](https://wangpeipei90.github.io/resume/pwang7_resume2.pdf). 
 
 ## Publications
 
