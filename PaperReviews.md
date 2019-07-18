@@ -1,6 +1,6 @@
-* Why Aren't Regular Expressions a Lingua Franca? An Empirical Study on the Re-use and Portability of Regular Expressions FSE 19 (#RegexLinguaFranca)
-* Understanding real-world concurrency bugs in Go ASPLOS 2019 (#ConcurrencyBugStudyGo)
-* Analyzing and Supporting Adaptation of Online Code Examples ICSE 2019 (#OnlineCodeAdaptation)
+* Why Aren't Regular Expressions a Lingua Franca? An Empirical Study on the Re-use and Portability of Regular Expressions FSE 19 (#regexlinguafranca)
+* Understanding real-world concurrency bugs in Go ASPLOS 2019 (#concurrencybugstudygo)
+* Analyzing and Supporting Adaptation of Online Code Examples ICSE 2019 (#onlinecodeadaptation)
 
 # Why Aren't Regular Expressions a Lingua Franca? An Empirical Study on the Re-use and Portability of Regular Expressions FSE 19
 Title: Why Aren't Regular Expressions a Lingua Franca? An Empirical Study on the Re-use and Portability of Regular Expressions FSE 19
