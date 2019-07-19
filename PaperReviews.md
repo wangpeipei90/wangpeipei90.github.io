@@ -1,3 +1,8 @@
+[Take me there](#there_you_go)
+[Take me where](#here)
+<a name="there_you_go"></a>Take me there
+<a name="here"></a>Take me where
+
 * [Why Aren't Regular Expressions a Lingua Franca? FSE 19] (#regexlinguafranca)
 * Understanding real-world concurrency bugs in Go ASPLOS 2019 (#concurrencybugstudygo)
 * Analyzing and Supporting Adaptation of Online Code Examples ICSE 2019 (#onlinecodeadaptation)
