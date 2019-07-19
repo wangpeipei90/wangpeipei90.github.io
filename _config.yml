@@ -2,12 +2,3 @@ theme: jekyll-theme-slate
 title: Peipei Wang
 email: pwang7@ncsu.edu
 paginate: 5
-
-- title: Introduction
-  url: introduction.html
-
-- title: Configuration
-  url: configuration.html
-
-- title: Deployment
-  url: deployment.html
