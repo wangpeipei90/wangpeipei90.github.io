@@ -3,9 +3,9 @@
 
 
 
-* [Why Aren't Regular Expressions a Lingua Franca? FSE 19] (#regexlinguafranca)
-* Understanding real-world concurrency bugs in Go ASPLOS 2019 
-* Analyzing and Supporting Adaptation of Online Code Examples ICSE 2019 
+* [Why Aren't Regular Expressions a Lingua Franca? FSE 19](#regexlinguafranca)
+* [Understanding real-world concurrency bugs in Go ASPLOS 2019](#concurrencybugstudygo) 
+* [Analyzing and Supporting Adaptation of Online Code Examples ICSE 2019](#onlinecodeadaptation)
 
 
 <a name="there_you_go"></a>Take me there
