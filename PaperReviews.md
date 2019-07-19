@@ -40,6 +40,7 @@ The conclusion is what I have expected. But there are some details different fro
 3) The performance differences across languages are caused by regex engine implementation: Thompson's algorithm (grep), Spencer's algorithm Medium and Spencer's algorithm Slow. 
 
 <a name="TreeDistance"></a>
+# Simple fast algorithms for the edit distance between trees and related problems
 Title: Simple fast algorithms for the edit distance between trees and related problems
 
 A research paper which shed light on comparing similarities of regular expression syntax trees. (Accidentally I found this topic from a poster on the 2nd floor of EBII) 
