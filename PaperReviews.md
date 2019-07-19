@@ -3,12 +3,11 @@
 
 
 
-
-<a name="here"></a>Take me where
-
 * [Why Aren't Regular Expressions a Lingua Franca? FSE 19] (#regexlinguafranca)
 * Understanding real-world concurrency bugs in Go ASPLOS 2019 (#concurrencybugstudygo)
 * Analyzing and Supporting Adaptation of Online Code Examples ICSE 2019 (#onlinecodeadaptation)
+
+
 <a name="there_you_go"></a>Take me there
 
 # <a name="regexlinguafranca"></a>Why Aren't Regular Expressions a Lingua Franca? An Empirical Study on the Re-use and Portability of Regular Expressions
@@ -23,6 +22,7 @@ The conclusion is what I have expected. But there are some details different fro
 -------we may use them as the classification for bugs across languages.
 3) The performance differences across languages are caused by regex engine implementation: Thompson's algorithm (grep), Spencer's algorithm Medium and Spencer's algorithm Slow. 
 
+<a name="here"></a>Take me where
 
 A research paper which shed light on comparing similarities of regular expression syntax trees. (Accidentally I found this topic from a poster on the 2nd floor of EBII) 
 Title: Simple fast algorithms for the edit distance between trees and related problems SIAM J. Comput. 1989
