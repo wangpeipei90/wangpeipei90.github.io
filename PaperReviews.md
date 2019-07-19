@@ -1,18 +1,22 @@
 [Take me there](#there_you_go)
 [Take me where](#here)
-<a name="there_you_go"></a>Take me there
+
+
+
+
 <a name="here"></a>Take me where
 
 * [Why Aren't Regular Expressions a Lingua Franca? FSE 19] (#regexlinguafranca)
 * Understanding real-world concurrency bugs in Go ASPLOS 2019 (#concurrencybugstudygo)
 * Analyzing and Supporting Adaptation of Online Code Examples ICSE 2019 (#onlinecodeadaptation)
+<a name="there_you_go"></a>Take me there
 
 # <a name="regexlinguafranca"></a>Why Aren't Regular Expressions a Lingua Franca? An Empirical Study on the Re-use and Portability of Regular Expressions
 Title: Why Aren't Regular Expressions a Lingua Franca? An Empirical Study on the Re-use and Portability of Regular Expressions FSE 19
 Lingua Franca means "common language" or "universal language". 
 This is a paper on reusing regular expression across different program languages. It starts with a survey of 158 developers. The survey shows that most developers copy paste regular expressions and 47% of them do it without considering the programming language. 
 Thus it constructs a regex corpus with over 5 million regexes to evaluate its re-use and measure the semantic and performance portability problems. 
-
+<a name="here"></a>Take me where
 The conclusion is what I have expected. But there are some details different from what we usually do. 
 1) definition of re-use----------not based on the string/behavioral similarity, but identical regexes which are at least 15 characters long
 2) differences among languages with the same regex notation at 3 levels-----is/is not a feature, different features, subtly different behaviors. (See Table 4, and 3 types of witnesses in Table 3)
