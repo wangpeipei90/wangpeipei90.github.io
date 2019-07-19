@@ -8,7 +8,7 @@
 
 <a name="seForml"></a>
 # Software engineering for machine learning: a case study
-Title: Software engineering for machine learning: a case study
+*Title: Software engineering for machine learning: a case study*
 
 The research paper from ICSE this paper talking about challenges in SE for ML.
 
@@ -19,7 +19,7 @@ Another statement this paper claim is the three different roles in AI-based appl
 
 <a name="pr_acceptance"></a>
 # Replication Can Improve Prior Results: A GitHub Study of Pull Request Acceptance
-Title: Replication Can Improve Prior Results: A GitHub Study of Pull Request Acceptance ICPC'19
+*Title: Replication Can Improve Prior Results: A GitHub Study of Pull Request Acceptance ICPC'19*
 
 Jack Chen's paper on ICPC 19. Although the paper talks mainly about replicating qualitative research results with crowdsourcing, I checked the study because it is related to pull request acceptance. 
 
@@ -27,7 +27,7 @@ My goal of this paper is the factors influencing GitHub Pull Request acceptance,
 
 <a name="regexlinguafranca"></a>
 # Why Aren't Regular Expressions a Lingua Franca?
-Title: Why Aren't Regular Expressions a Lingua Franca? An Empirical Study on the Re-use and Portability of Regular Expressions 
+*Title: Why Aren't Regular Expressions a Lingua Franca? An Empirical Study on the Re-use and Portability of Regular Expressions*
 
 Lingua Franca means "common language" or "universal language". 
 
@@ -42,7 +42,7 @@ The conclusion is what I have expected. But there are some details different fro
 
 <a name="TreeDistance"></a>
 # Simple fast algorithms for the edit distance between trees and related problems
-Title: Simple fast algorithms for the edit distance between trees and related problems
+*Title: Simple fast algorithms for the edit distance between trees and related problems*
 
 A research paper which shed light on comparing similarities of regular expression syntax trees. (Accidentally I found this topic from a poster on the 2nd floor of EBII) 
 
@@ -52,9 +52,9 @@ Besides the edit distance between ordered labeled trees might be a better idea t
 
 <a name="ConcurrencyBugStudyGo"></a>
 # Understanding real-world concurrency bugs in Go
-Title: Understanding real-world concurrency bugs in Go
+*Title: Understanding real-world concurrency bugs in Go*
 
-Authors: Tengfei Tu, Xiaoyu Liu, Linhai Song, and Yiying Zhang
+*Authors: Tengfei Tu, Xiaoyu Liu, Linhai Song, and Yiying Zhang*
 
 The paper is a bug study on the specific bug (concurrency bug) in all Go projects. Go language is built for concurrency. It is interesting that this paper tries to verify if Go helps concurrency or not.
 
@@ -69,7 +69,7 @@ Gains from the paper:
 
 <a name="OnlineCodeAdaptation"></a>
 # Analyzing and Supporting Adaptation of Online Code Examples
-Title: Analyzing and Supporting Adaptation of Online Code Examples 
+*Title: Analyzing and Supporting Adaptation of Online Code Examples*
 
 Authors: Tianyi Zhang, Di Yang, Crista Lopes, Miryung Kim
 
@@ -86,7 +86,7 @@ Questions:
 
 <a name="GithubStudy"></a>
 # Findings from GitHub: Methods, Datasets and Limitations
-Title: Findings from GitHub: Methods, Datasets and Limitations
+*Title: Findings from GitHub: Methods, Datasets and Limitations*
 
 Authors: Valerio Cosentino, Izquierdo Javier Luis Canovas, Jordi Cabot
 
