@@ -5,6 +5,7 @@
 <a name="regexlinguafranca"></a>
 # Why Aren't Regular Expressions a Lingua Franca?
 Title: Why Aren't Regular Expressions a Lingua Franca? An Empirical Study on the Re-use and Portability of Regular Expressions 
+
 From: FSE 19
 
 Lingua Franca means "common language" or "universal language". 
@@ -27,10 +28,14 @@ This paper describes how one tree is changed to be the same as the other and a f
 Besides the edit distance between ordered labeled trees might be a better idea than just comparing the extracted regex vectors of 34 features. Tree edit distances are harder to calculate than string edit distances, but there are several implementations of this algorithm in the GitHub now. So next time we can just use it when we need similarity measures of the regex 
 
 # ConcurrencyBugStudyGo
-Title: Understanding real-world concurrency bugs in Go 
-From: ASPLOS 2019
+Title: Understanding real-world concurrency bugs in Go
+
 Authors: Tengfei Tu, Xiaoyu Liu, Linhai Song, and Yiying Zhang
+
+From: ASPLOS 2019
+
 The paper is a bug study on the specific bug (concurrency bug) in all Go projects. Go language is built for concurrency. It is interesting that this paper tries to verify if Go helps concurrency or not.
+
 Gains from the paper:
 1) Bug collection: handpick popular GitHub projects; collected commits by keywords, random sampling and manually identifying concurrency bugs---similar to ours
 2) Bug taxonomy. It uses two orthogonal dimensions: causes/behaviors; in each behavior, the causes are again divided. -------It looks unbelievable to me that the classification is so neat and have no overlaps. 
@@ -42,9 +47,13 @@ Gains from the paper:
 
 # OnlineCodeAdaptation
 Title: Analyzing and Supporting Adaptation of Online Code Examples 
-From: ICSE 2019
+
 Authors: Tianyi Zhang, Di Yang, Crista Lopes, Miryung Kim
+
+From: ICSE 2019
+
 Thoughts: The main contribution of this paper is the taxonomy of adaption types from StackOverflow examples to GitHub code snippets. 
+
 Gains:
 1) The process of making the taxonomy is very clear (qualitative analysis): a) first 90 examples and found convergent types, and then stop at 200; b) random sampling; c) joint work---two authors do the initial labeling and the other two joined later for refining taxonomy
 2) Automated categorization: a) rules are inferred; b) validation manually
