@@ -27,7 +27,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 7. "[Hytrace: A Hybrid Approach to Performance Bug Diagnosis in Production Cloud Infrastructures](http://dance.csc.ncsu.edu/papers/socc2017.pdf)", Ting Dai, Daniel Dean, **Peipei Wang**, Xiaohui Gu, Shan Lu, Proc. of ACM Symposium on Cloud Computing (SOCC), poster session, Santa Clara, CA, September, 2017.
 
-8. "[Exploring Regular Expression Comprehension](https://wangpeipei90.github.io/papers/ase2017.pdf)", Carl Chapman, **Peipei Wang**（corresponding author）, and Kathryn T. Stolee, International Conference on Automated Software Engineering (ASE), 2017. (acceptance rate: 21%) ([slides](https://wangpeipei90.github.io/slides/slides_ase2017.pdf))
+8. "[Exploring Regular Expression Comprehension](https://wangpeipei90.github.io/papers/ase2017.pdf)", Carl Chapman, **Peipei Wang (corresponding author)**, and Kathryn T. Stolee, International Conference on Automated Software Engineering (ASE), 2017. (acceptance rate: 21%) ([slides](https://wangpeipei90.github.io/slides/slides_ase2017.pdf))
 
 9. "[Hytrace: A Hybrid Approach to Performance Bug Diagnosis in Production Cloud Infrastructures](http://dance.csc.ncsu.edu/papers/TPDS18.pdf)", Ting Dai, Daniel Dean, **Peipei Wang**, Xiaohui Gu, Shan Lu, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2018.
 
