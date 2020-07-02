@@ -37,4 +37,4 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 12. "[Exploring Regular Expression Evolution](https://wangpeipei90.github.io/papers/saner2019_preprint.pdf)", **Peipei Wang**, Rui Bai, Kathryn T. Stolee, IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2019. 
 
-13. "[An Empirical Study on Regular Expression Bugs](https://wangpeipei90.github.io/papers/msr2020_preprint.pdf)", **Peipei Wang**, Chris Brown, Jamie A. Jennings, Kathryn T. Stolee, International Conference on Mining Software Repositories (MSR), 2020. 
+13. "[An Empirical Study on Regular Expression Bugs](https://wangpeipei90.github.io/papers/msr2020_preprint.pdf)", **Peipei Wang**, Chris Brown, Jamie A. Jennings, Kathryn T. Stolee, International Conference on Mining Software Repositories (MSR), 2020. ([slides](https://wangpeipei90.github.io/slides/slides_MSR2020.pptx), [video](https://youtu.be/-tVxhW0MeIc))
