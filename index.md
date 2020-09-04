@@ -5,7 +5,7 @@ From 2013 to 2016 I worked with [Dr. Xiaohui(Helen) Gu](https://www.csc2.ncsu.ed
 
 My current research is focused on **improving regular expression comprehension, testing, and maintenance** through program analysis techniques. I am also interested in techniques of cloud system debugging and diagnosis to detect and repair system anomalies and bugs at the fine granularity. 
 
-I have an internship at IBM Inc. (Research Triangle Park) during Jun-Aug 2018 and IBM Inc. (China Research Laboratory) during Jun-Aug 2015, and another at Morgan Stanley IT department (Shanghai) in 2012.
+I have an internship at Facebook Inc. during Jun-Aug 2020, IBM Inc. (Research Triangle Park) during Jun-Aug 2018 and IBM Inc. (China Research Laboratory) during Jun-Aug 2015, and another at Morgan Stanley IT department (Shanghai) in 2012.
 
 Here is my [resume](https://wangpeipei90.github.io/resume/Resume_Peipei.pdf). 
 
