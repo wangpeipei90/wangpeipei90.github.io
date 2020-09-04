@@ -1,5 +1,5 @@
 ## About Me
-I am a sixth year PhD candidate at the [Department of Computer Science](https://www.csc.ncsu.edu/) of [North Carolina State University](https://www.ncsu.edu/). I joined SOFTWARE ENGINEERING team in 2017 and have been under the supervision of [Dr. Kathryn T. Stolee](https://kstolee.github.io/) since then. 
+I am a PhD candidate at the [Department of Computer Science](https://www.csc.ncsu.edu/) of [North Carolina State University](https://www.ncsu.edu/). I joined SOFTWARE ENGINEERING team in 2017 and have been under the supervision of [Dr. Kathryn T. Stolee](https://kstolee.github.io/) since then. 
 
 From 2013 to 2016 I worked with [Dr. Xiaohui(Helen) Gu](https://www.csc2.ncsu.edu/faculty/xgu/) on distributed system research. Before coming to NC State University, I received from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) my Bachelor's degree in Software Engineering in 2010 and Master's degree in Computer Science in 2013. 
 
@@ -7,7 +7,7 @@ My current research is focused on **improving regular expression comprehension, 
 
 I have an internship at IBM Inc. (Research Triangle Park) during Jun-Aug 2018 and IBM Inc. (China Research Laboratory) during Jun-Aug 2015, and another at Morgan Stanley IT department (Shanghai) in 2012.
 
-Here is my [resume](https://wangpeipei90.github.io/resume/cv.pdf). 
+Here is my [resume](https://wangpeipei90.github.io/resume/Resume_Peipei.pdf). 
 
 ## Publications
 
@@ -27,7 +27,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 7. "[Hytrace: A Hybrid Approach to Performance Bug Diagnosis in Production Cloud Infrastructures](http://dance.csc.ncsu.edu/papers/socc2017.pdf)", Ting Dai, Daniel Dean, **Peipei Wang**, Xiaohui Gu, Shan Lu, Proc. of ACM Symposium on Cloud Computing (SOCC), poster session, Santa Clara, CA, September, 2017.
 
-8. "[Exploring Regular Expression Comprehension](https://wangpeipei90.github.io/papers/ase2017.pdf)", Carl Chapman, **Peipei Wang**, and Kathryn T. Stolee, International Conference on Automated Software Engineering (ASE), 2017. (acceptance rate: 21%) ([slides](https://wangpeipei90.github.io/slides/slides_ase2017.pdf))
+8. "[Exploring Regular Expression Comprehension](https://wangpeipei90.github.io/papers/ase2017.pdf)", Carl Chapman, **Peipei Wang (corresponding author)**, and Kathryn T. Stolee, International Conference on Automated Software Engineering (ASE), 2017. (acceptance rate: 21%) ([slides](https://wangpeipei90.github.io/slides/slides_ase2017.pdf))
 
 9. "[Hytrace: A Hybrid Approach to Performance Bug Diagnosis in Production Cloud Infrastructures](http://dance.csc.ncsu.edu/papers/TPDS18.pdf)", Ting Dai, Daniel Dean, **Peipei Wang**, Xiaohui Gu, Shan Lu, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2018.
 
@@ -35,4 +35,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 11. "[How well are regular expressions tested in the wild?](https://wangpeipei90.github.io/papers/fse2018.pdf)", **Peipei Wang**, Kathryn T. Stolee, Symposium on the Foundations of Software Engineering (FSE), 2018. ([slides](https://wangpeipei90.github.io/slides/slides_fse2018.pptx))
 
-12. "[Exploring Regular Expression Evolution](https://wangpeipei90.github.io/papers/saner2019_preprint.pdf)", **Peipei Wang**, Rui Bai, Kathryn T. Stolee, IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2019. (To appear)
+12. "[Exploring Regular Expression Evolution](https://wangpeipei90.github.io/papers/saner2019_preprint.pdf)", **Peipei Wang**, Rui Bai, Kathryn T. Stolee, IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2019.  ([slides](https://wangpeipei90.github.io/slides/slides_saner2019.pptx))
+
+13. "[An Empirical Study on Regular Expression Bugs](https://wangpeipei90.github.io/papers/msr2020_preprint.pdf)", **Peipei Wang**, Chris Brown, Jamie A. Jennings, Kathryn T. Stolee, International Conference on Mining Software Repositories (MSR), 2020. (Acceptance rate: 29.7%, [slides](https://wangpeipei90.github.io/slides/slides_MSR2020.pptx), [video](https://youtu.be/-tVxhW0MeIc))
