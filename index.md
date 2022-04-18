@@ -1,11 +1,11 @@
 ## About Me
-I am a PhD candidate at the [Department of Computer Science](https://www.csc.ncsu.edu/) of [North Carolina State University](https://www.ncsu.edu/). I joined SOFTWARE ENGINEERING team in 2017 and have been under the supervision of [Dr. Kathryn T. Stolee](https://kstolee.github.io/) since then. 
+I graduated as a PhD from [Department of Computer Science](https://www.csc.ncsu.edu/) of [North Carolina State University](https://www.ncsu.edu/) in 2021. Since 2017, I joined SOFTWARE ENGINEERING team and was under the supervision of [Dr. Kathryn T. Stolee](https://kstolee.github.io/) since then. 
 
 From 2013 to 2016 I worked with [Dr. Xiaohui(Helen) Gu](https://www.csc2.ncsu.edu/faculty/xgu/) on distributed system research. Before coming to NC State University, I received from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) my Bachelor's degree in Software Engineering in 2010 and Master's degree in Computer Science in 2013. 
 
-My current research is focused on **improving regular expression comprehension, testing, and maintenance** through program analysis techniques. I am also interested in techniques of cloud system debugging and diagnosis to detect and repair system anomalies and bugs at the fine granularity. 
+My research interests spread from **improving regular expression comprehension, testing, and maintenance in software engineering** through program analysis techniques to techniques of cloud system debugging and diagnosis to detect and repair system anomalies and bugs at the fine granularity. 
 
-I have an internship at Facebook Inc. during Jun-Aug 2020, IBM Inc. (Research Triangle Park) during Jun-Aug 2018 and IBM Inc. (China Research Laboratory) during Jun-Aug 2015, and another at Morgan Stanley IT department (Shanghai) in 2012.
+I did internships at Facebook Inc. during Jun-Aug 2020, IBM Inc. (Research Triangle Park) during Jun-Aug 2018 and IBM Inc. (China Research Laboratory) during Jun-Aug 2015, and another at Morgan Stanley IT department (Shanghai) in 2012.
 
 Here is my [resume](https://wangpeipei90.github.io/resume/Resume_Peipei.pdf). 
 
@@ -39,4 +39,4 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 13. "[An Empirical Study on Regular Expression Bugs](https://wangpeipei90.github.io/papers/msr2020_preprint.pdf)", **Peipei Wang**, Chris Brown, Jamie A. Jennings, Kathryn T. Stolee, International Conference on Mining Software Repositories (MSR), 2020. (Acceptance rate: 29.7%, [slides](https://wangpeipei90.github.io/slides/slides_MSR2020.pptx), [video](https://youtu.be/-tVxhW0MeIc))
 
-14. "Demystifying Regular Expression Bugs: A comprehensive study on regular expression bug causes, fixes, and testing". **Peipei Wang**, Chris Brown, Jamie Jennings, Kathryn T. Stolee, Empirical Software Engineering (EMSE), 2020 (under submission).
+14. "[Demystifying Regular Expression Bugs: A comprehensive study on regular expression bug causes, fixes, and testing](https://link.springer.com/article/10.1007/s10664-021-10033-1)". **Peipei Wang**, Chris Brown, Jamie Jennings, Kathryn T. Stolee, Empirical Software Engineering (EMSE), 2022.
