@@ -39,4 +39,4 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 13. "[An Empirical Study on Regular Expression Bugs](https://wangpeipei90.github.io/papers/msr2020_preprint.pdf)", **Peipei Wang**, Chris Brown, Jamie A. Jennings, Kathryn T. Stolee, International Conference on Mining Software Repositories (MSR), 2020. (Acceptance rate: 29.7%, [slides](https://wangpeipei90.github.io/slides/slides_MSR2020.pptx), [video](https://youtu.be/-tVxhW0MeIc))
 
-14. "[Demystifying Regular Expression Bugs: A comprehensive study on regular expression bug causes, fixes, and testing](https://link.springer.com/article/10.1007/s10664-021-10033-1)". **Peipei Wang**, Chris Brown, Jamie Jennings, Kathryn T. Stolee, Empirical Software Engineering (EMSE), 2022.
+14. "[Demystifying Regular Expression Bugs: A comprehensive study on regular expression bug causes, fixes, and testing](https://link.springer.com/article/10.1007/s10664-021-10033-1)". **Peipei Wang**, Chris Brown, Jamie Jennings, Kathryn T. Stolee, Empirical Software Engineering (EMSE), 2021.
